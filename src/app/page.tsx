@@ -19,11 +19,13 @@ export default function Home() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <main>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src="/photo.png" alt="meinefinsternis" className="photo" />
         <h1>meinefinsternis</h1>
 
         <ul>
           <li>
-            <a href="http://cv.mnfstrns.dev/" rel="me">
+            <a href="http://cv.mnfstrns.dev/" rel="me noopener noreferrer" target="_blank">
               cv / portfolio
             </a>
           </li>

@@ -19,6 +19,12 @@ body {
   max-width: 640px;
 }
 
+.photo {
+  float: right;
+  width: 120px;
+  margin: 0 0 1rem 1.5rem;
+}
+
 h1 {
   font-size: 2rem;
   font-weight: bold;
