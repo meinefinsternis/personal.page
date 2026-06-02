@@ -26,8 +26,8 @@ export default function Home() {
         <section>
           <h2>tags:</h2>
           <p>
-            building web apps, gym, cycling, travel, street pics, sunset rides,
-            cooking
+            building web apps, gym, cycling, sunset rides, art, chill trips,
+            museums, street photos, hiking, cooking, perfumes, long walks, ballet, table tennis, concerts, traveling, road trips
           </p>
         </section>
         <section>
