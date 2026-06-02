@@ -4,10 +4,8 @@ const jsonLd = {
   name: "meinefinsternis",
   url: "https://mnfstrns.dev",
   sameAs: [
-    "http://instagram.com/meinefinsternis",
-    "http://github.com/meinefinsternis",
+    "https://instagram.com/meinefinsternis",
     "https://open.spotify.com/user/31vy6dzc7ocdrnenc7gxirrervre",
-    "https://www.linkedin.com/in/dima-at-wrk/",
   ],
 };
 
@@ -27,7 +25,8 @@ export default function Home() {
           <h2>tags:</h2>
           <p>
             building web apps, gym, cycling, sunset rides, art, chill trips,
-            museums, street photos, hiking, cooking, perfumes, long walks, ballet, table tennis, concerts, traveling, road trips
+            museums, street photos, hiking, cooking, perfumes, long walks,
+            ballet, table tennis, concerts, traveling, road trips
           </p>
         </section>
         <section>
@@ -35,29 +34,11 @@ export default function Home() {
           <ul>
             <li>
               <a
-                href="http://cv.mnfstrns.dev/"
+                href="https://cv.mnfstrns.dev/"
                 rel="me noopener noreferrer"
                 target="_blank"
               >
                 cv / portfolio
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.linkedin.com/in/dima-at-wrk/"
-                rel="me noopener noreferrer"
-                target="_blank"
-              >
-                https://www.linkedin.com/in/dima-at-wrk/
-              </a>
-            </li>
-            <li>
-              <a
-                href="http://github.com/meinefinsternis"
-                rel="me noopener noreferrer"
-                target="_blank"
-              >
-                http://github.com/meinefinsternis
               </a>
             </li>
             <li>
@@ -79,6 +60,16 @@ export default function Home() {
               </a>
             </li>
           </ul>
+        </section>
+        <section>
+          <h2>contact me:</h2>
+          <a
+            href="https://t.me/j00l0000l000l00jo"
+            rel="me noopener noreferrer"
+            target="_blank"
+          >
+            https://t.me/j00l0000l000l00jo
+          </a>
         </section>
       </main>
     </>
