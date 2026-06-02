@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: "meinefinsternis",
   description:
-    "Personal site of meinefinsternis — links to portfolio, CV, Instagram, GitHub, and Strava.",
+    "Personal site of meinefinsternis — links to portfolio, CV, Instagram, and GitHub.",
   keywords: ["meinefinsternis", "portfolio", "design", "cv"],
   authors: [{ name: "meinefinsternis", url: SITE_URL }],
   creator: "meinefinsternis",
@@ -17,14 +17,14 @@ export const metadata: Metadata = {
     url: SITE_URL,
     title: "meinefinsternis",
     description:
-      "Personal site of meinefinsternis — links to portfolio, CV, Instagram, GitHub, and Strava.",
+      "Personal site of meinefinsternis — links to portfolio, CV, Instagram and GitHub.",
     siteName: "meinefinsternis",
   },
   twitter: {
     card: "summary",
     title: "meinefinsternis",
     description:
-      "Personal site of meinefinsternis — links to portfolio, CV, Instagram, GitHub, and Strava.",
+      "Personal site of meinefinsternis — links to portfolio, CV, Instagram and GitHub.",
   },
   robots: {
     index: true,

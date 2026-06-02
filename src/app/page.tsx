@@ -6,7 +6,6 @@ const jsonLd = {
   sameAs: [
     "http://instagram.com/meinefinsternis",
     "http://github.com/meinefinsternis",
-    "https://www.strava.com/athletes/mnfstrns",
     "https://open.spotify.com/user/31vy6dzc7ocdrnenc7gxirrervre",
     "https://www.linkedin.com/in/dima-at-wrk/",
   ],
@@ -68,15 +67,6 @@ export default function Home() {
                 target="_blank"
               >
                 http://instagram.com/meinefinsternis
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.strava.com/athletes/mnfstrns"
-                rel="me noopener noreferrer"
-                target="_blank"
-              >
-                https://www.strava.com/athletes/mnfstrns
               </a>
             </li>
             <li>
