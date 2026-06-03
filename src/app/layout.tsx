@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/next";
 
-const SITE_URL = "https://mnfstrns.dev";
+const SITE_URL = "https://i.am.mnfstrns.dev";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -33,6 +33,9 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: SITE_URL,
+  },
+  verification: {
+    google: "xMYSUyLFE74bmKBwaSWObKr97bXpFbkQRNmYbBWddI0",
   },
 };
 
