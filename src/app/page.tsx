@@ -63,13 +63,7 @@ export default function Home() {
         </section>
         <section>
           <h2>contact me:</h2>
-          <a
-            href="https://t.me/j00l0000l000l00jo"
-            rel="me noopener noreferrer"
-            target="_blank"
-          >
-            https://t.me/j00l0000l000l00jo
-          </a>
+          <a href="mailto:i.am@mnfstrns.dev">i.am@mnfstrns.dev</a>
         </section>
       </main>
     </>
