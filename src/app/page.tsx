@@ -47,7 +47,7 @@ export default function Home() {
                 rel="me noopener noreferrer"
                 target="_blank"
               >
-                http://instagram.com/meinefinsternis
+                http://instagram.com/mnfstrns
               </a>
             </li>
             <li>
@@ -56,7 +56,7 @@ export default function Home() {
                 rel="me noopener noreferrer"
                 target="_blank"
               >
-                https://open.spotify.com/user/31vy6dzc7ocdrnenc7gxirrervre
+                https://open.spotify.com/user/mnfstrns
               </a>
             </li>
           </ul>
