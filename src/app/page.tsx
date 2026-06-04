@@ -1,3 +1,6 @@
+import { redis } from '@/lib/redis'
+import { SubmissionsForm } from './submissions-form'
+
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Person",
@@ -9,7 +12,8 @@ const jsonLd = {
   ],
 };
 
-export default function Home() {
+export default async function Home() {
+  const initial = await redis.lrange<{ url: string; text: string; createdAt: number }>('submissions', 0, 49)
   return (
     <>
       <script
@@ -134,6 +138,7 @@ export default function Home() {
           <h2>contact me:</h2>
           <a href="mailto:i.am@mnfstrns.dev">i.am@mnfstrns.dev</a>
         </section>
+        <SubmissionsForm initial={initial} />
       </main>
     </>
   );
