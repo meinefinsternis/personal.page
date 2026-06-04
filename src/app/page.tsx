@@ -61,6 +61,75 @@ export default function Home() {
             </li>
           </ul>
         </section>
+
+        <section>
+          <h2>inspo:</h2>
+          <ul>
+            <li>
+              <a
+                href="https://fuckyou.design/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://fuckyou.design/
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://designreviewed.com/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://designreviewed.com/
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://searchsystem.co/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://searchsystem.co/
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.oobject.com/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://www.oobject.com/
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://magasindesobjetsusuels.tumblr.com/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://magasindesobjetsusuels.tumblr.com/
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://digitalcollections.nypl.org/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://digitalcollections.nypl.org/
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.webdesignmuseum.org/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://www.webdesignmuseum.org/
+              </a>
+            </li>
+          </ul>
+        </section>
         <section>
           <h2>contact me:</h2>
           <a href="mailto:i.am@mnfstrns.dev">i.am@mnfstrns.dev</a>
