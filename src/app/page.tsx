@@ -24,6 +24,15 @@ export default async function Home() {
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img src="/photo.png" alt="meinefinsternis" className="photo" />
 
+        <video
+          className="clip"
+          src="https://res.cloudinary.com/ddfhkqmxs/video/upload/v1780950054/SnapInsta.to_AQNzj8tHklRuCpSCI0QPvguqOU-8mEqhEJkiCHJKBxe3eOB7a5rSSpw3IVdWCF3QSVDkiAdlXOhRoR1dSAjAzPTXawDgwHOexchDCl0_lfhfmk.mp4"
+          autoPlay
+          muted
+          loop
+          playsInline
+        />
+
         <h1>meinefinsternis</h1>
         <section>
           <h2>tags:</h2>
