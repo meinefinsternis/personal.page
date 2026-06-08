@@ -168,6 +168,24 @@ export default async function Home() {
                 https://sheets.works/data-viz/keyboard-sounds
               </a>
             </li>
+            <li>
+              <a
+                href="https://github.com/VoltAgent/awesome-design-md"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://github.com/VoltAgent/awesome-design-md
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.tinytooltown.com/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://www.tinytooltown.com/
+              </a>
+            </li>
           </ul>
         </section>
         <section>
