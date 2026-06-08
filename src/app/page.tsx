@@ -132,6 +132,42 @@ export default async function Home() {
                 https://www.webdesignmuseum.org/
               </a>
             </li>
+            <li>
+              <a
+                href="https://mechanical-pencil.com/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://mechanical-pencil.com/
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://bitburner-official.github.io/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://bitburner-official.github.io/
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://transitions.dev/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://transitions.dev/
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://sheets.works/data-viz/keyboard-sounds"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                https://sheets.works/data-viz/keyboard-sounds
+              </a>
+            </li>
           </ul>
         </section>
         <section>
